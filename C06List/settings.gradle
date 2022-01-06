@@ -1,0 +1,2 @@
+rootProject.name = "C06 List"
+include ':app'
